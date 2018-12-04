@@ -2,6 +2,9 @@ package day1.part2
 
 import day1.fileToArray
 
+//TODO: Comment code
+//TODO: Optimize solution
+
 fun main(args: Array<String>) {
     val frequencies: ArrayList<Int> = fileToArray()
     val fake = arrayListOf<Int>(3, 3, 4, -2, -4)

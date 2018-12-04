@@ -2,6 +2,9 @@ package day2.part2
 
 import day2.fileToArray
 
+//TODO: Comment code
+//TODO: Optimize solution
+
 fun main(args: Array<String>) {
     val boxIDs: ArrayList<String> = fileToArray()
     val fake: ArrayList<String> =
